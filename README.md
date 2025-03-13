@@ -72,5 +72,5 @@ When you're done with this experiment, you've got two things to cleanup. The env
 
 From the `remote_setup` directory run `terraform destroy` to delete all supporting resources.
 
-And that's it! You've cleaned up.
+And that's it! You've cleaned up!
 
